@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">🚀My name is Arda, I've been coding since I was 14 years old👨‍💻</div>  
+### <div align="center">🚀Hello, My name is Arda👨‍💻</div>  
   
 
 - 🗨️ I'm still improving myself at the moment.  
